@@ -1,0 +1,23 @@
+date,name,team,position,salary,fppg,games_played
+2024-06-20,H. Ramos,SFG,N/A,14600,11.24,1
+2024-06-20,W. Adames,SFG,N/A,11400,8.36,1
+2024-06-20,W. Flores,SFG,N/A,11000,9.70,1
+2024-06-20,H. Goodman,COL,N/A,10600,9.84,1
+2024-06-20,J. Beck,COL,N/A,10000,9.59,1
+2024-06-20,J. Lee,COL,N/A,9200,10.10,1
+2024-06-20,B. Doyle,COL,N/A,8600,7.66,1
+2024-06-20,M. Yastrzemski,SFG,N/A,8000,8.07,1
+2024-06-20,T. Fitzgerald,SFG,N/A,6400,7.26,1
+2024-06-20,T. Estrada,SFG,N/A,6200,6.27,1
+2024-06-20,T. Freeman,COL,N/A,5600,7.70,1
+2024-06-20,J. Encarnacion,COL,N/A,4400,1.20,1
+2024-06-20,O. Arcia,COL,N/A,4200,2.92,1
+2024-06-20,K. Farmer,COL,N/A,4000,5.61,1
+2024-06-20,K. Hiura,COL,N/A,3800,3.07,1
+2024-06-20,R. Ritter,COL,N/A,3400,7.00,1
+2024-06-20,C. Schmitt,SFG,N/A,3200,4.55,1
+2024-06-20,A. Knizner,SFG,N/A,3000,2.07,1
+
+
+py -m streamlit run dashboard/app.py
+

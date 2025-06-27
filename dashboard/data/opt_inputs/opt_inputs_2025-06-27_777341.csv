@@ -1,0 +1,27 @@
+name,team,position,jersey,fppg,salary,activo
+Alexander Canario,Pittsburgh Pirates,LF,29,10.0,13000,True
+Andrew McCutchen,Pittsburgh Pirates,RF,22,9.0,12000,True
+Bryan Reynolds,Pittsburgh Pirates,RF,10,8.0,11000,True
+Oneil Cruz,Pittsburgh Pirates,CF,15,7.0,10000,True
+Tommy Pham,Pittsburgh Pirates,LF,28,6.0,9000,True
+Adam Frazier,Pittsburgh Pirates,2B,26,5.0,8000,True
+Henry Davis,Pittsburgh Pirates,C,32,4.0,7000,True
+Isiah Kiner-Falefa,Pittsburgh Pirates,SS,7,3.0,6000,True
+Jared Triolo,Pittsburgh Pirates,SS,19,2.0,5000,True
+Joey Bart,Pittsburgh Pirates,C,14,1.0,6000,True
+Ke'Bryan Hayes,Pittsburgh Pirates,3B,13,0.9,5000,True
+Nick Gonzales,Pittsburgh Pirates,2B,39,0.8,4000,True
+Spencer Horwitz,Pittsburgh Pirates,1B,2,0.7,3000,True
+Brandon Nimmo,New York Mets,LF,9,10.0,13000,True
+Jared Young,New York Mets,LF,29,9.0,12000,True
+Juan Soto,New York Mets,RF,22,8.0,11000,True
+Starling Marte,New York Mets,LF,6,7.0,10000,True
+Travis Jankowski,New York Mets,RF,21,6.0,9000,True
+Tyrone Taylor,New York Mets,CF,15,5.0,8000,True
+Brett Baty,New York Mets,3B,7,4.0,7000,True
+Francisco Lindor,New York Mets,SS,12,3.0,6000,True
+Hayden Senger,New York Mets,C,30,2.0,5000,True
+Jeff McNeil,New York Mets,2B,1,1.0,6000,True
+Luis Torrens,New York Mets,C,13,0.9,5000,True
+Pete Alonso,New York Mets,1B,20,0.8,4000,True
+Ronny Mauricio,New York Mets,3B,10,0.7,3000,True
